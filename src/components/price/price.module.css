@@ -1,0 +1,12 @@
+.price {
+    width: 80px;
+    height: 40px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    margin-right: 5px;
+
+    font-weight: 600;
+}

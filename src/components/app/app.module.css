@@ -1,0 +1,20 @@
+.container {
+    width: 700px;
+    background-color: rgb(148, 240, 202);
+    margin: 50px;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    box-sizing: border-box;
+    border: 2px solid #003312;
+    padding: 20px 40px;
+    background: rgb(246, 246, 241);
+    color: #003312;
+    font-size: 56px;
+}
+
+

@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    height: 80px;
+    padding: 10px;
+}
+
+.counterWithPrice {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name {
+    font-weight: 600;
+    font-size: 20px;
+}
